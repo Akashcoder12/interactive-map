@@ -1,0 +1,15 @@
+#map {
+    height: 500px;
+    width: 100%;
+    margin: 20px auto;
+    border: 2px solid #ccc;
+}
+
+#search {
+    width: 100%;
+    padding: 10px;
+    margin: 10px auto;
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
